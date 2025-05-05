@@ -64,6 +64,10 @@ git clone https://github.com/yourusername/line-bot-gas.git
 # 依存関係のインストール
 npm install
 
+# gasのセットアップ
+clasp login
+clasp create --title "Your Project Name"
+
 # ビルド
 npm run build
 
