@@ -61,6 +61,10 @@ src/
 # リポジトリをクローン
 git clone https://github.com/yourusername/line-bot-gas.git
 
+# spreadsheetService.ts:l94のシート名をプロジェクト名に変更
+# .clasp-"環境名".json を追加
+# .clasp-"環境名".json のrootDirをdistに指定
+
 # 依存関係のインストール
 npm install
 
