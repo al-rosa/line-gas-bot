@@ -66,7 +66,7 @@ npm install
 
 # gasのセットアップ
 clasp login
-clasp create --title "Your Project Name"
+clasp create --type sheets --title "Your Project Name"
 
 # ビルド
 npm run build
